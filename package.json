@@ -33,8 +33,7 @@
     "ember-export-application-global": "^1.0.0",
     "express": "^4.8.5",
     "glob": "^4.0.5",
-    "mocha": "^2.1.0",
-    "cheerio": "^0.19.0"
+    "mocha": "^2.1.0"
   },
   "keywords": [
     "ember-addon"
@@ -47,6 +46,7 @@
     "core-object": "0.0.2",
     "redis": "^0.12.1",
     "rsvp": "^3.0.16",
-    "then-redis": "^1.2.2"
+    "then-redis": "^1.2.2",
+    "cheerio": "^0.19.0"
   }
 }
