@@ -1,7 +1,7 @@
 {
-  "name": "ember-deploy-redis",
-  "version": "0.0.2",
-  "description": "ember-deploy index-adapter for redis",
+  "name": "ember-cli-deploy-redis-cne",
+  "version": "0.0.0",
+  "description": "ember-deploy index-adapter config only for redis",
   "directories": {
     "doc": "doc",
     "test": "tests"
