@@ -22,7 +22,7 @@ Instead of an index file, json gets stored like this:
     "vendor":"<your vendor script, I.E. /assets/vendor.js>",
     "app":"<your app script, I.E. /assets/<your app name>.js>"
   },
-  "environment" {
+  "environment": {
     "content":"<the content property of your environment meta tag>",
     "name":"<your-app-name>/config/environment"
   }
