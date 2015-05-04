@@ -1,15 +1,15 @@
 /* jshint node: true */
 'use strict';
 
-var RedisAdapter = require('./lib/redis');
+var RedisCneAdapter = require('./lib/redis');
 
 module.exports = {
-  name: 'ember-deploy-redis',
+  name: 'ember-cli-deploy-redis-cne',
   type: 'ember-deploy-addon',
 
   adapters: {
     index: {
-      'redis': RedisAdapter
+      'redis-cne': RedisCneAdapter
     }
   }
 };
