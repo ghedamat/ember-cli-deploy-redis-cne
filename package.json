@@ -48,6 +48,7 @@
     "memcached": "^2.1.0",
     "redis": "^0.12.1",
     "rsvp": "^3.0.16",
-    "then-redis": "^1.2.2"
+    "then-redis": "^1.2.2",
+    "speedcurve-api": "git+ssh://git@github.com:ScottLNorvell/speedcurve-api.git"
   }
 }
