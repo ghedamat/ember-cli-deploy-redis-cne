@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-deploy-redis-cne",
-  "version": "0.0.0",
-  "description": "ember-deploy index-adapter config only for redis",
+  "name": "cne-redis-deploy",
+  "version": "1.0.0",
+  "description": "Conde Nast Entertainment's CUSTOM redis deploy package for thescene frontend",
   "directories": {
     "doc": "doc",
     "test": "tests"
