@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "./node_modules/mocha/bin/mocha node_tests/**/*-test.js"
   },
-  "repository": "n/a for now",
+  "repository": "cnerepo/ember-cli-deploy-redis-cne",
   "engines": {
     "node": ">= 0.10.0"
   },
