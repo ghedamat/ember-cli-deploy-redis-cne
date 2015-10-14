@@ -1,6 +1,8 @@
 /* jshint node: true */
 'use strict';
 
+var commands = require('./lib/commands');
+
 var RedisCneAdapter = require('./lib/redis');
 
 module.exports = {
@@ -11,5 +13,8 @@ module.exports = {
     index: {
       'redis-cne': RedisCneAdapter
     }
+  },
+  includedCommands: function() {
+    return commands;
   }
 };
