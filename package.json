@@ -1,6 +1,6 @@
 {
   "name": "cne-redis-deploy",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Conde Nast Entertainment's CUSTOM redis deploy package for thescene frontend",
   "directories": {
     "doc": "doc",
