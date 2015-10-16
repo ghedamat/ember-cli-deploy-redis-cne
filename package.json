@@ -50,6 +50,7 @@
     "rsvp": "^3.0.16",
     "then-redis": "^1.2.2",
     "sync-exec": "^0.5.0",
+    "silent-error": "^1.0.0",
     "node-hipchat": "^0.4.5",
     "string-template": "^0.2.1",
     "speedcurve-api": "git+ssh://git@github.com:ScottLNorvell/speedcurve-api.git"
