@@ -1,4 +1,5 @@
-# Ember-cli-deploy-redis-cne
+# Ember-cli-deploy-redis-cne [![](https://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/plugins/ember-cli-deploy-redis-cne.svg)](http://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/)
+
 
 This is a redis-adapter implementation to use [Redis](http://redis.io) with
 [ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy).
